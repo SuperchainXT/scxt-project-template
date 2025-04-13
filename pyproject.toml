@@ -1,0 +1,7 @@
+[project]
+name = "scxt-project-template"
+version = "0.1.0"
+description = "A sample project using scxt"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["python-dotenv>=1.1.0", "scxt>=0.1.2"]
